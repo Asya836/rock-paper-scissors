@@ -1,4 +1,4 @@
-# 🎮 Taş Kağıt Makas Oyunu
+# Taş Kağıt Makas Oyunu
 
 Vue.js ile geliştirilmiş bir Taş Kağıt Makas oyunudur.
 
