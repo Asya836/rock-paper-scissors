@@ -75,24 +75,35 @@ npm run preview
 - **HTML5** - Semantic markup
 
 ## Ekran Görüntüleri
+
 Oyuna başlamadan bilgilendirme mesajı
+
 <img width="700" height="500" alt="bilgi" src="https://github.com/user-attachments/assets/a6aefc82-b56c-446e-9257-fadcc6e84c44" />
 <img width="700" height="500" alt="bilgi2" src="https://github.com/user-attachments/assets/021b407f-123f-4a66-bd7d-25f385ebcd00" />
 
+
 Tur seçimi sayfası
+
 <img width="700" height="500" alt="tur" src="https://github.com/user-attachments/assets/851bffde-fcc0-43b1-a893-0b3a8eeb0672" />
 
+
 Oyun başlangıç sayfası
+
 <img width="700" height="500" alt="ana" src="https://github.com/user-attachments/assets/ade18a57-bbbf-40bd-9f3c-59fa28bcf206" />
+
 
 <img width="700" height="500" alt="1" src="https://github.com/user-attachments/assets/86928dd5-2a73-4e37-aa56-bba659a9dd4c" />
 <img width="700" height="500" alt="2" src="https://github.com/user-attachments/assets/d237269b-564f-4d7d-9abe-dbbe7598b339" />
 <img width="700" height="500" alt="3" src="https://github.com/user-attachments/assets/484677cd-ce51-4c7d-a254-81ea6952f39f" />
 
+
 Kazanma sayfası
+
 <img width="700" height="500" alt="kazanma" src="https://github.com/user-attachments/assets/2d847d2d-b804-46b3-8781-6d3b4c2de5db" />
 
+
 Kaybetme sayfası
+
 <img width="700" height="500" alt="kaybetme" src="https://github.com/user-attachments/assets/e40722a8-669e-4f41-a67b-01b3259edd7f" />
 
 
