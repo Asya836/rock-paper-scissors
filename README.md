@@ -2,6 +2,8 @@
 
 Vue.js ile geliştirilmiş bir Taş Kağıt Makas oyunudur.
 
+Oynamak için https://rock-paper-scissors-three-inky.vercel.app/
+
 ## Özellikler
 
 - **Interaktif Arayüz**: Modern ve kullanıcı dostu tasarım
